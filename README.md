@@ -18,3 +18,4 @@ pip3 install requests
 
 
 MTCNN project: https://github.com/ipazc/mtcnn <br />
+Recomende to run the api using a virtual environment: https://docs.python.org/3/library/venv.html
