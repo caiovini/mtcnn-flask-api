@@ -15,3 +15,6 @@ pip3 install Pillow
 In order to use the example to call the api install dependency:
 
 pip3 install requests
+
+
+MTCNN project: https://github.com/ipazc/mtcnn <br />
